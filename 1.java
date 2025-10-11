@@ -1,1 +1,1 @@
-tomcat sonarqubr nexus jenkisn 
+tomcat 
