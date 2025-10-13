@@ -2,4 +2,3 @@ welcome to devops
 linux
 shell scripting 
 git and git hub
-jenkins
